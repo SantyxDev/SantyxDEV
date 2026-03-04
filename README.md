@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E76A8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Junior;Frontend+%2B+Backend;QA+Mindset;Clean+Code+Advocate;Continuous+Learner" />
 </p>
 
-![FirLevel](https://github.com/user-attachments/assets/b109bd53-4093-497a-9b63-45a82fe5c1a9)
+https://github.com/user-attachments/assets/2f3adba0-65de-4f55-9709-7cf3b52f72a4
 
 ---
 
