@@ -155,10 +155,6 @@ Donde pueda aportar valor, aprender y crecer profesionalmente.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SantyxDev&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantyxDev&hide_border=true" />
-</p>
-
 ---
 
 ## 🔥 Actividad
