@@ -1,12 +1,21 @@
-# 🧑‍💻 Santiago Martinez  
-### Fullstack Developer Junior | QA Enthusiast  
+<h1 align="center">🧑‍💻 Santiago Martinez</h1>
+
+<h3 align="center">Fullstack Developer Junior | QA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E76A8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Junior;Frontend+%2B+Backend;QA+Mindset;Clean+Code+Advocate;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=0E76A8&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend;QA+Mindset;Clean+Code+Advocate;Continuous+Learner" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac1bedb3-bfda-407f-9247-6236d0e02458" width="500"/>
+  <img src="https://github.com/user-attachments/assets/ac1bedb3-bfda-407f-9247-6236d0e02458" width="420"/>
+</p>
+
+<p align="center">
+  💻 Construyendo soluciones escalables  
+  <br/>
+  🔐 Enfocado en seguridad y control de roles  
+  <br/>
+  🧪 Mentalidad de calidad y mejora continua  
 </p>
 
 ---
@@ -16,13 +25,11 @@
 Soy desarrollador **Fullstack Junior** con mentalidad de **Calidad de Software (QA)**.  
 Me enfoco en construir aplicaciones funcionales, seguras y bien estructuradas.
 
-💡 Me interesa no solo que el software funcione…  
+Me interesa no solo que el software funcione,  
 sino que funcione **bien, de forma escalable y mantenible**.
 
 📍 Colombia  
-
 ---
-
 ## 🧠 Enfoque Profesional
 
 🔹 Desarrollo frontend moderno  
