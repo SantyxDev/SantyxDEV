@@ -148,8 +148,8 @@ Donde pueda aportar valor, aprender y crecer profesionalmente.
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SantyxDev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantyxDev&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ Donde pueda aportar valor, aprender y crecer profesionalmente.
 ## 🔥 Actividad
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SantyxDev&theme=tokyonight" />
 </p>
 
 ---
