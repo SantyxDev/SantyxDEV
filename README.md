@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E76A8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Junior;Frontend+%2B+Backend;QA+Mindset;Clean+Code+Advocate;Continuous+Learner" />
 </p>
 
-https://github.com/user-attachments/assets/2f3adba0-65de-4f55-9709-7cf3b52f72a4
+![ingeniero-de-software-desarrollando-sitio-web-animation-gif-download-5304701](https://github.com/user-attachments/assets/ac1bedb3-bfda-407f-9247-6236d0e02458)
 
 ---
 
