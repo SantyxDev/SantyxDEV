@@ -86,7 +86,7 @@ Plataforma para gestión de:
 
 **Stack:** Angular + Firebase  
 
-🔗 Repositorio: https://github.com/TUUSUARIO/fitlevel  
+🔗 Repositorio: https://github.com/SantyxDev/FitLevel.git
 
 ---
 
@@ -106,7 +106,7 @@ Permite gestionar:
 **Rol:** Desarrollo Fullstack  
 **Enfoque:** Lógica de negocio + estructura de datos + validaciones  
 
-🔗 Repositorio: https://github.com/TUUSUARIO/ADAX-Store-Manager  
+🔗 Repositorio: https://github.com/Xfezor/ADAX-Store-Manager.git
 
 ---
 
