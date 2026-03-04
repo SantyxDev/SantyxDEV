@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E76A8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Junior;Frontend+%2B+Backend;QA+Mindset;Clean+Code+Advocate;Continuous+Learner" />
 </p>
 
+![FirLevel](https://github.com/user-attachments/assets/b109bd53-4093-497a-9b63-45a82fe5c1a9)
+
 ---
 
 ## 🚀 Sobre mí
